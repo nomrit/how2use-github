@@ -5,6 +5,15 @@
 
 最初にgithubでinitial repositoryを作成する。
 
-## create directory
+## move directory
 
-ローカルで、directoryを作成。
+リポジトリ作るdirectoryに移動。
+
+## clone
+
+git clone.
+例えばこのrepositoryであれば、
+
+> git clone https://github.com/nomrit/how2use-github
+
+
