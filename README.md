@@ -7,13 +7,17 @@
 
 ## move directory
 
-リポジトリ作るdirectoryに移動。
-
+リポジトリ作るdirectoryに移動。例えば、
+```
+$ mkdir work
+$ cd work 
+```
 ## clone
 
 git clone.
 例えばこのrepositoryであれば、
 
-> git clone https://github.com/nomrit/how2use-github
-
+```
+$ git clone https://github.com/nomrit/how2use-github
+```
 
