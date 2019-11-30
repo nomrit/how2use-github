@@ -21,3 +21,8 @@ git clone.
 $ git clone https://github.com/nomrit/how2use-github
 ```
 
+## ローカルリポジトリをgithubにプッシュ
+
+```
+$ git push origin master
+```
